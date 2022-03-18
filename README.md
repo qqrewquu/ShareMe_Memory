@@ -2,7 +2,7 @@
 
 ![alt text](images/appearance.png "Appearance")
 
-**This is a social media application:**
+This is a social media application:
 
 1. User can **create**, **edit**, **delete** and **save** posts with photos and comments
 
