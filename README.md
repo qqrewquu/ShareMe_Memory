@@ -10,7 +10,7 @@
 
 3. It integrated **Google Authentication API** to support users’ login with Google account
 
-### This app is built by following: [here](https://www.youtube.com/watch?v=1RHDhtbqo94&t=7091s)
+This app is built by following: [here](https://www.youtube.com/watch?v=1RHDhtbqo94&t=7091s)
 
 # Tech Stack
 
