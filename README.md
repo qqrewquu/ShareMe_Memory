@@ -1,4 +1,4 @@
-# Social Media Application
+# ShareMe Memory
 
 
 ## [Live Demo](https://sharemememory.netlify.app)
