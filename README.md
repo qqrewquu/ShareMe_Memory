@@ -1,9 +1,12 @@
-# Social Media Applcation
+# Social Media Application
+
 
 ## [Live Demo](https://sharemememory.netlify.app)
 
 
 ![alt text](images/appearance.png "Appearance")
+
+
 
 ## This is a social media application:
 
@@ -14,6 +17,7 @@
 3. It integrated **Google Authentication API** to support users’ login with Google account
 
 This app is inspired by following: [here](https://www.youtube.com/watch?v=1RHDhtbqo94&t=7091s)
+
 
 
 ## Tech Stack
