@@ -1,8 +1,11 @@
-# ShareMe_Memory
+# Social Media Applcation
+
+## [Live Demo](https://sharemememory.netlify.app)
+
 
 ![alt text](images/appearance.png "Appearance")
 
-### This is a social media application:
+## This is a social media application:
 
 1. User can **create**, **edit**, **delete** and **save** posts with photos and comments
 
@@ -12,7 +15,8 @@
 
 This app is inspired by following: [here](https://www.youtube.com/watch?v=1RHDhtbqo94&t=7091s)
 
-# Tech Stack
+
+## Tech Stack
 
 **Frontend**: React, TailwindCSS
 
