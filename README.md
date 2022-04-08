@@ -1,12 +1,13 @@
 # ShareMe Memory
 
 
-## [Live Demo](https://sharemememory.netlify.app)
+
 
 
 ![alt text](images/appearance.png "Appearance")
 
 
+## Live Demo: https://sharemememory.netlify.app
 
 ## This is a social media application:
 
